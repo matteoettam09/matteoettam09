@@ -12,8 +12,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/matteomanzi00seinfeldwasright/" target="blank"><img align="center"
       src="images/linkedin.png"
-      alt="adam pithewan" height="30" width="40" /></a>
+      height="40" width="40" /></a>
  <a href="https://twitter.com/Matteomanzi09" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      height="30" width="40" /></a>
 </p>
