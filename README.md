@@ -13,8 +13,9 @@
  <a href="https://twitter.com/Matteomanzi09" target="blank"><img align="center"
       src="images/twitter.png"
       height="40" width="40" /></a>
-  
-  - 📫 You can also reach me at **matteomanzi09@gmail.com**
-</p>
+  <a href="https://www.youtube.com/channel/UCxkveBmMqeXPXLzFdsnA0bA" target="blank"><img align="center"
+      src="images/youtube.png"
+      height="40" width="40" /></a>
+  </p>
 
 
