@@ -14,7 +14,7 @@
 
 ![Matteo's GitHub stats](https://github-readme-stats-zf8e-matteoettam09.vercel.app/api?username=matteoettam09&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-zf8e-matteoettam09.vercel.app/api/top-langs/?username=matteoettam09&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats-zf8e-matteoettam09.vercel.app/api/top-langs/?username=matteoettam09&size_weight=1&count_weight=0&layout=compact)
 
 
 <h2 align="center">Connect:</h2>
