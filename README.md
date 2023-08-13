@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I am Matteo!</h1>
+<div align="center">
 
+# Matteo, Lead Quant @ CrunchDAO
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -8,6 +9,13 @@
 </p>
 
 <br>
+
+<h2 align="center">Stats</h2>
+
+![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteoettam09&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteoettam09&size_weight=0.5&count_weight=0.5&layout=compact)
+
 
 <h2 align="center">Connect:</h2>
 <p align="center">
@@ -18,3 +26,5 @@
       src="images/twitter.png"
       height="40" width="40" /></a>
   </p>
+  
+</div>
