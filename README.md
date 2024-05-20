@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matteo, Head of Quantitative Research @ CrunchDAO
+# Matteo, Financial Machine Learning Quantitative Researcher
 
 <a href="https://www.linkedin.com/in/matteomanzi/" target="blank"><img align="center"
       src="images/linkedin.png"
