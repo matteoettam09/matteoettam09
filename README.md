@@ -1,6 +1,8 @@
 <div align="center">
 
-# Matteo, Financial Machine Learning Quantitative Researcher
+# Matteo
+# Financial Machine Learning 
+# DeFi Quantitative Researcher
 
 <a href="https://www.linkedin.com/in/matteomanzi/" target="blank"><img align="center"
       src="images/linkedin.png"
